@@ -2,7 +2,14 @@
 This program runs a single test that is currently failing.
 It is throwing a common exception. Your goal is to make it pass
 by only editing the get_display_data() function. Use the
-expected output as a clue.
+expected output from the test function as a clue.
+
+You can work locally if you have Python 3.7+ installed or feel free to use
+a web based solution. Here is one option: https://replit.com/languages/python3
+
+
+Please provide your updated get_display_data() function
+by responding to the email you received.
 """
 
 from dataclasses import dataclass
